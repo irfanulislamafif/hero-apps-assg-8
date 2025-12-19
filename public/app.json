@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Forest",
+    "title": "Forest: Stay Focused",
+    "companyName": "Seekrtech",
+    "id": 1,
+    "description": "Forest is a beautifully designed productivity app that helps you beat phone addiction and stay focused on the important things in life. The concept is simple yet profound: whenever you want to concentrate on a task, you plant a virtual seed in the app. Over the next 30 minutes (or your chosen time interval), this seed will grow into a magnificent tree. However, if you cannot resist the temptation to use your phone and leave the app to check social media or play a game, your tree will wither and die. \n\nThis gamified approach leverages the psychological pain of loss to keep you on track. Over time, you will cultivate a lush digital forest representing your moments of dedication and hard work. But Forest goes beyond the virtual screen; the team partners with a real-tree-planting organization, Trees for the Future. When users spend virtual coins earned by staying focused, the Forest team donates to plant real trees on Earth. It is an app where your personal productivity directly contributes to a greener planet. Features include detailed statistics to track your focus distribution, a whitelist for necessary apps during work sessions, and a collaborative mode where you can plant trees with friends—if one person fails, the tree dies for everyone.",
+    "size": 185.0,
+    "reviews": 450000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 383000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/000000/ffffff?text=Radio+Garden",
+    "title": "Radio Garden Live",
+    "companyName": "Radio Garden B.V.",
+    "id": 2,
+    "description": "Radio Garden allows you to travel the globe without leaving your chair by tuning into live radio stations from every corner of the world. The interface is a stunning, rotatable 3D globe dotted with thousands of green lights, each representing a live radio broadcaster. Simply spin the Earth and tap on a dot to instantly listen to what is playing in that specific location, whether it is a jazz station in New Orleans, a news broadcast in Tokyo, or traditional folk music in a small village in Iceland. \n\nIt is one of the most magical ways to experience cultural diversity and feel connected to humanity. The app organizes stations by city and country, but the real joy comes from serendipitous discovery. You can save your favorite stations for quick access later and even search for specific genres or places. Unlike standard streaming services that rely on algorithms to feed you similar content, Radio Garden opens your ears to the unexpected. It is completely free to use and provides a fascinating glimpse into the daily lives of people thousands of miles away. It serves as a reminder that no matter where we are, we are all listening to something.",
+    "size": 28.0,
+    "reviews": 65000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 53500 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/1A237E/ffffff?text=SkyView",
+    "title": "SkyView Lite",
+    "companyName": "Terminal Eleven",
+    "id": 3,
+    "description": "SkyView Lite brings the cosmos to your fingertips using augmented reality (AR) to decode the night sky. Have you ever looked up and wondered, 'What star is that?' or 'Is that a planet?' With SkyView, you simply point your phone's camera at the sky, day or night, and the app overlays the names and shapes of stars, constellations, planets, and even satellites directly onto your screen. It doesn't require a data connection or GPS to function, making it perfect for camping trips in remote areas. \n\nThe app tracks the movements of celestial bodies in real-time, allowing you to follow the path of the Sun, the Moon, or Mars throughout the day. One of its coolest features is the 'Time Travel' mode, which lets you jump to the past or future to see exactly how the sky looked or will look at any given date. You can spot the International Space Station (ISS) as it flies over your location or find the Hubble Space Telescope. The interface is intuitive and beautiful, accompanied by soothing ambient music that enhances the stargazing experience. It is an educational tool that sparks wonder and curiosity about the universe we live in.",
+    "size": 55.0,
+    "reviews": 850000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 620000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/2196F3/ffffff?text=Be+My+Eyes",
+    "title": "Be My Eyes",
+    "companyName": "Be My Eyes",
+    "id": 4,
+    "description": "Be My Eyes is a heartwarming app that connects blind and low-vision people with sighted volunteers and company representatives for visual assistance through a live video call. It is a prime example of technology being used for pure good. If a blind user needs help checking the expiration date on a milk carton, matching clothes, or navigating a new environment, they can request assistance in the app. \n\nA notification is sent to a network of millions of sighted volunteers. The first available volunteer answers the call, and a live video connection is established. The volunteer can see what the blind user's rear-facing camera is pointing at and describe it to them. The calls are typically short, anonymous, and incredibly helpful. The app supports over 180 languages, ensuring that help is available globally. Recently, they introduced 'Be My AI,' a feature powered by GPT-4 that can instantly analyze photos and provide detailed descriptions without needing a human volunteer. Whether you need help or want to offer your eyes to someone in need, Be My Eyes creates a community of kindness and accessibility that restores faith in humanity.",
+    "size": 40.0,
+    "reviews": 320000,
+    "ratingAvg": 4.9,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 307000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Seek",
+    "title": "Seek by iNaturalist",
+    "companyName": "California Academy of Sciences",
+    "id": 5,
+    "description": "Seek is the Shazam for nature. It encourages you to explore the great outdoors by using image recognition technology to identify plants, animals, fungi, and insects. Created by the California Academy of Sciences and National Geographic, Seek is kid-safe and privacy-friendly, as it doesn't require an account or collect location data by default. \n\nSimply open the camera within the app and hover it over a living organism. The app will work in real-time to narrow down the taxonomy from kingdom to species. Once identified, you earn a badge for that species and can read interesting facts about it. It gamifies nature exploration with monthly observation challenges, encouraging users to find specific types of flora or fauna in their area. It is a fantastic tool for hikers, gardeners, parents, and anyone curious about the natural world. Unlike heavy scientific apps, Seek is designed for the casual explorer who just wants to know, 'What flower is this?' It transforms a simple walk in the park into an educational safari, helping you appreciate the biodiversity that surrounds you every day.",
+    "size": 60.5,
+    "reviews": 120000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 96500 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/FFC107/ffffff?text=RunPee",
+    "title": "RunPee",
+    "companyName": "PolyGeek",
+    "id": 6,
+    "description": "RunPee is the app you never knew you needed until you are sitting in a theater with a large soda and 45 minutes left in a movie. It solves a very specific but universal problem: telling you the best time to run to the restroom during a movie without missing any crucial plot twists or action scenes. \n\nThe RunPee team watches movies on release day to identify 'Peetimes'—slow scenes lasting 3-5 minutes where nothing important happens. The app alerts you (vibration only, so you don't disturb others) when a Peetime begins. While you are away, it provides a text synopsis of what you are missing so you can catch up instantly upon your return. Additionally, RunPee tells you if there is anything during or after the end credits, saving you the awkward wait if there is nothing to see. It serves as a comprehensive movie companion, offering spoiler-free reviews and information about potentially triggering scenes. It is a simple utility that significantly improves the cinema experience, ensuring you are comfortable and informed throughout the film.",
+    "size": 22.0,
+    "reviews": 15000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/03A9F4/ffffff?text=Flightradar24",
+    "title": "Flightradar24 Tracker",
+    "companyName": "Flightradar24 AB",
+    "id": 7,
+    "description": "Flightradar24 turns your phone into an air traffic control radar. This incredible app tracks 180,000+ flights in real-time, all around the world. You can watch aircraft move across a detailed map, tap on a plane to see its flight number, airline, aircraft type, speed, altitude, and even view a high-resolution photo of the actual jet. \n\nOne of the most immersive features is the '3D View,' which lets you see what the pilot sees. If a plane passes overhead, you can point your device at it (using AR) to instantly identify where it is going and where it came from. It is an essential tool for travelers wanting to track their own flights or check for delays, as well as for aviation enthusiasts and plane spotters. You can filter by airline, aircraft, or airport to find exactly what you are looking for. The app also provides historical data and playback of past flights. It is fascinating to watch the global flow of air traffic and realize just how connected our world is. From tracking a loved one's safe arrival to identifying a strange helicopter buzzing your neighborhood, Flightradar24 answers all your aviation questions.",
+    "size": 85.0,
+    "reviews": 1100000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 820000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Geocaching",
+    "title": "Geocaching®",
+    "companyName": "Groundspeak Inc.",
+    "id": 8,
+    "description": "Geocaching makes you the protagonist of a real-world treasure hunt. There are millions of geocaches—containers ranging from tiny magnetic tubes to large ammunition boxes—hidden in 190 countries, likely even in your own neighborhood. The app uses GPS coordinates to guide you to these hidden locations. \n\nOnce you find a cache, you sign the logbook inside, exchange small trinkets if you wish, and log your find in the app. It is a fantastic way to explore new places, from urban centers to deep forest trails, that you would otherwise overlook. The community is vast and creative, often designing clever puzzles or camouflaged containers that require a keen eye to spot. The app tracks your finds, offers hints if you are stuck, and allows you to message other geocachers. It is an activity that blends physical exercise, problem-solving, and exploration, suitable for all ages. Whether you are looking for a quick diversion on your lunch break or an all-day hiking adventure, Geocaching turns the entire world into a giant game board waiting to be discovered.",
+    "size": 90.0,
+    "reviews": 400000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 265000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/009688/ffffff?text=TooGoodToGo",
+    "title": "Too Good To Go",
+    "companyName": "Too Good To Go",
+    "id": 9,
+    "description": "Too Good To Go is the #1 app for fighting food waste. Every day, delicious, fresh food goes to waste at cafes, restaurants, hotels, and supermarkets just because it wasn't sold in time. This app connects you with these businesses, allowing you to buy 'Surprise Bags' of this food at a fraction of the original price (usually 1/3). \n\nYou don't know exactly what will be in the bag—it could be pastries, sushi, pizza, or groceries—but it is always a bargain and perfectly good to eat. By using the app, you save money, discover new local food spots, and, most importantly, help the planet by reducing landfill waste and CO2 emissions. The interface is map-based, showing you nearby venues with available bags and pick-up times. It is a win-win-win solution: businesses recover costs, you get cheap food, and the environment suffers less. The app tracks how many meals you have saved and calculates your environmental impact, giving you a sense of accomplishment. Join the food waste revolution and eat well for less.",
+    "size": 45.0,
+    "reviews": 1600000,
+    "ratingAvg": 4.9,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 1440000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/9C27B0/ffffff?text=Google+Arts",
+    "title": "Google Arts & Culture",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Google Arts & Culture is a hidden treasure trove within the Google ecosystem, placing the collections of over 2,000 museums from 80 countries in your pocket. You can take virtual tours of famous sites like the Taj Mahal or the Palace of Versailles using Street View technology. Explore ultra-high-resolution images of masterpieces like Van Gogh's 'Starry Night,' allowing you to zoom in and see every brushstroke. \n\nThe app is packed with fun, interactive features powered by AI. 'Art Selfie' matches your face to a portrait in a museum, finding your historical doppelgänger. 'Art Transfer' turns your photos into artwork in the style of famous painters. You can even project life-sized 3D models of artifacts or dinosaurs into your living room using AR. It features daily digests of cultural trivia, deep dives into historical events, and curated stories about color, fashion, and food. Whether you are an art history student or just bored and looking for something visually stimulating, this app offers endless educational entertainment. It democratizes access to culture, allowing anyone with a phone to experience the world's greatest human achievements.",
+    "size": 25.0,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 95000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/F44336/ffffff?text=Zombies+Run",
+    "title": "Zombies, Run!",
+    "companyName": "Six to Start",
+    "id": 11,
+    "description": "Zombies, Run! is an immersive running game and audio adventure that makes fitness exciting. Instead of just jogging to music, you become 'Runner 5,' a key player in one of the last remaining outposts of humanity after the zombie apocalypse. Through your headphones, you hear a compelling story unfold, mixing radio dramas and voice recordings with your own music playlists. \n\nAs you run, you collect virtual supplies like medicine, batteries, and food to build up your base back home. The most thrilling feature is 'Zombie Chases'—periodically, you will hear the guttural breaths of zombies getting closer. To escape, you must physically speed up your running pace in the real world. This interval training mechanic pushes you to run faster and longer without noticing the effort. The app tracks your distance, speed, and calories, but the real motivation is the narrative. With hundreds of missions and seasons, it offers years of content. Whether you are training for a marathon or just trying to get off the couch, Zombies, Run! gives you a terrifyingly good reason to move.",
+    "size": 520.0,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/FFEB3B/ffffff?text=Slowly",
+    "title": "Slowly - Connect to the World",
+    "companyName": "Slowly Communications",
+    "id": 12,
+    "description": "Slowly brings the traditional experience of pen pals to the digital age. In an era of instant messaging, Slowly intentionally delays the delivery of your messages depending on the distance between you and your recipient. A letter sent to someone in your own country might take a few hours, while a letter to the other side of the world could take days. \n\nThis delay encourages you to write meaningful, long-form letters rather than short, meaningless chats. You create an avatar and match with people based on shared interests and languages. There are no photos allowed initially, placing the focus entirely on words and personality. As you exchange letters, you can collect virtual stamps from different countries, adding a fun collection element. It is a haven for introverts, writers, and anyone tired of the superficiality of modern dating and social apps. The anticipation of waiting for a letter makes the arrival of a notification truly special. Slowly revives the lost art of letter writing, fostering deep, cross-cultural friendships that are built on patience and genuine connection.",
+    "size": 65.0,
+    "reviews": 180000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/E91E63/ffffff?text=TouchRetouch",
+    "title": "TouchRetouch",
+    "companyName": "ADVA Soft",
+    "id": 13,
+    "description": "TouchRetouch is an award-winning photo editor designed with one specific purpose: to remove unwanted content from your photos. While many apps offer this as a side feature, TouchRetouch specializes in it and delivers magical results. Did a power line ruin your perfect landscape shot? Is there a trash can in the background of your portrait? Simply mark the object with your finger, and the app's smart algorithms will erase it and fill in the background seamlessly. \n\nIt works wonders on blemishes, street signs, photobombers, and even complex meshes like fences. The 'Line Removal' tool automatically detects and erases thin lines like telephone wires with a single tap. It also includes a clone stamp tool for manual corrections. The interface is incredibly simple; you don't need to be a Photoshop expert to use it. Tutorials are built right into the app to help you master the tools. For anyone who loves mobile photography, TouchRetouch is an essential utility that turns good photos into perfect ones by decluttering the composition.",
+    "size": 45.0,
+    "reviews": 35000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/FF9800/ffffff?text=Yuka",
+    "title": "Yuka - Food & Cosmetic Scan",
+    "companyName": "Yuka App",
+    "id": 14,
+    "description": "Yuka is a transparency tool that helps you make sense of product labels. By scanning the barcodes of food and cosmetic products, Yuka instantly evaluates their health impact. The app assigns a score from 0 to 100 and uses a simple color code (green to red) to indicate if a product is excellent, good, poor, or bad. \n\nUnlike other apps, Yuka is 100% independent; brands cannot pay to improve their scores or feature their products. The food analysis is based on three criteria: nutritional quality, the presence of additives, and organic status. For cosmetics, it analyzes ingredients to identify potential endocrine disruptors, carcinogens, or allergens. If a product has a bad score, Yuka automatically recommends healthier alternatives that are chemically cleaner but similar in nature. It empowers you to make informed decisions and often reveals that expensive brands aren't always the healthiest. The database is huge, and users can contribute by adding missing products. Yuka puts the power back in the consumer's hands, forcing manufacturers to improve their formulas.",
+    "size": 68.0,
+    "reviews": 850000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 650000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/8BC34A/ffffff?text=Merlin",
+    "title": "Merlin Bird ID",
+    "companyName": "Cornell Lab",
+    "id": 15,
+    "description": "Merlin Bird ID is a magical app for bird enthusiasts, created by the renowned Cornell Lab of Ornithology. Its standout feature is 'Sound ID': you can simply hold up your phone in a forest or your backyard, and the app will listen to the birds singing around you. It visualizes the sound on a spectrogram and identifies the species in real-time, even if multiple birds are singing at once. It feels like having a superpower. \n\nAdditionally, the 'Photo ID' feature allows you to snap a picture of a bird, and Merlin will identify it using computer vision. If you didn't get a photo or sound, you can answer five simple questions (size, color, activity, etc.), and Merlin will give you a list of likely birds for your location and date. The app downloads bird packs for your specific region so it works offline. It is accurate, educational, and completely free. Whether you are a serious birder or just curious about who is chirping outside your window, Merlin opens up a hidden layer of the natural world.",
+    "size": 450.0,
+    "reviews": 200000,
+    "ratingAvg": 4.9,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 188500 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/400x400/F44336/ffffff?text=Alarmy",
+    "title": "Alarmy - Morning Alarm",
+    "companyName": "Delight Room Co.",
+    "id": 16,
+    "description": "Alarmy dubs itself the 'World's Most Annoying Alarm Clock,' and for heavy sleepers, that is a compliment. If you constantly hit snooze and oversleep, Alarmy is the solution. It forces you to wake up by requiring you to complete a mission before the loud alarm will turn off. \n\nMissions include 'Photo Mode,' where you must get out of bed and take a picture of a specific registered object (like your bathroom sink), or 'Squat Mode,' where you must perform 20 squats while holding the phone. There are also math problems, memory games, and barcode scanning missions. By the time you have finished the task, your brain and body are awake, and the temptation to go back to sleep is gone. It also features 'Wake Up Checks' to ensure you didn't just go back to bed after the mission. While it might sound like torture, it is incredibly effective for students, night owls, and anyone who struggles with mornings. It has successfully woken up millions of people who thought they were un-wakeable.",
+    "size": 135.0,
+    "reviews": 1400000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1070000 }
+    ]
+  }
+]
