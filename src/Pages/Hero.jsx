@@ -39,21 +39,21 @@ const Hero = () => {
         <h1 className="text-4xl text-white font-bold">
           Trusted by Millions, Built for You
         </h1>
-        <div className="mt-8 flex gap-30 text-center">
+        <div className="mt-8 flex text-center flex-col gap-5 md:flex-row md:gap-40 ">
           <div>
-            <h1>Total Downloads</h1>
-            <h1>29.6M</h1>
-            <h1>21% more than last month</h1>
+            <h1 className="text-gray-300 m-2">Total Downloads</h1>
+            <h1 className="text-6xl font-bold">29.6M</h1>
+            <h1 className="text-gray-300 m-2">21% more than last month</h1>
           </div>
           <div>
-            <h1>Total Downloads</h1>
-            <h1>29.6M</h1>
-            <h1>21% more than last month</h1>
+            <h1 className="text-gray-300 m-2">Total Reviews</h1>
+            <h1 className="text-6xl font-bold">906K</h1>
+            <h1 className="text-gray-300 m-2">46% more than last month</h1>
           </div>
           <div>
-            <h1>Total Downloads</h1>
-            <h1>29.6M</h1>
-            <h1>21% more than last month</h1>
+            <h1 className="text-gray-300 m-2">Active Apps</h1>
+            <h1 className="text-6xl font-bold">132+</h1>
+            <h1 className="text-gray-300 m-2">31 more will Launch</h1>
           </div>
         </div>
       </div>

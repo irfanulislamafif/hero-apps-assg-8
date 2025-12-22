@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Forest",
+    "image": "https://i.ibb.co.com/5Xj84jpb/forest-2.png",
     "title": "Forest: Stay Focused",
     "companyName": "Seekrtech",
     "id": 1,
@@ -8,7 +8,7 @@
     "size": 185.0,
     "reviews": 450000,
     "ratingAvg": 4.8,
-    "downloads": 10000000,
+    "downloads": "10M",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 2000 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/000000/ffffff?text=Radio+Garden",
+    "image": "https://i.ibb.co.com/zhTFGrpx/Radio.jpg",
     "title": "Radio Garden Live",
     "companyName": "Radio Garden B.V.",
     "id": 2,
@@ -26,7 +26,7 @@
     "size": 28.0,
     "reviews": 65000,
     "ratingAvg": 4.7,
-    "downloads": 5000000,
+    "downloads": "50K",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 500 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/1A237E/ffffff?text=SkyView",
+    "image": "https://i.ibb.co.com/QGDq5QJ/Sky-View2.webp",
     "title": "SkyView Lite",
     "companyName": "Terminal Eleven",
     "id": 3,
@@ -44,7 +44,7 @@
     "size": 55.0,
     "reviews": 850000,
     "ratingAvg": 4.6,
-    "downloads": 50000000,
+    "downloads": "50M",
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 10000 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/2196F3/ffffff?text=Be+My+Eyes",
+    "image": "https://i.ibb.co.com/qMjSSbp9/Be.png",
     "title": "Be My Eyes",
     "companyName": "Be My Eyes",
     "id": 4,
@@ -62,7 +62,7 @@
     "size": 40.0,
     "reviews": 320000,
     "ratingAvg": 4.9,
-    "downloads": 10000000,
+    "downloads": "10K",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 500 },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Seek",
+    "image": "https://i.ibb.co.com/1fDg988D/Seek-by-i-Naturalist.png",
     "title": "Seek by iNaturalist",
     "companyName": "California Academy of Sciences",
     "id": 5,
@@ -80,7 +80,7 @@
     "size": 60.5,
     "reviews": 120000,
     "ratingAvg": 4.7,
-    "downloads": 10000000,
+    "downloads": "10M",
     "ratings": [
       { "name": "1 star", "count": 2000 },
       { "name": "2 star", "count": 1500 },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/FFC107/ffffff?text=RunPee",
+    "image": "https://i.ibb.co.com/Rpd6pQ1w/Run-Pee.png",
     "title": "RunPee",
     "companyName": "PolyGeek",
     "id": 6,
@@ -98,7 +98,7 @@
     "size": 22.0,
     "reviews": 15000,
     "ratingAvg": 4.8,
-    "downloads": 1000000,
+    "downloads": "20K",
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 100 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/03A9F4/ffffff?text=Flightradar24",
+    "image": "https://i.ibb.co.com/x8rBZrRY/Flightradar24-Tracker.webp",
     "title": "Flightradar24 Tracker",
     "companyName": "Flightradar24 AB",
     "id": 7,
@@ -116,7 +116,7 @@
     "size": 85.0,
     "reviews": 1100000,
     "ratingAvg": 4.7,
-    "downloads": 50000000,
+    "downloads": "40M",
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 10000 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/4CAF50/ffffff?text=Geocaching",
+    "image": "https://i.ibb.co.com/PsY0J4kp/Geocaching.png",
     "title": "Geocaching®",
     "companyName": "Groundspeak Inc.",
     "id": 8,
@@ -134,7 +134,7 @@
     "size": 90.0,
     "reviews": 400000,
     "ratingAvg": 4.6,
-    "downloads": 10000000,
+    "downloads": "100M",
     "ratings": [
       { "name": "1 star", "count": 15000 },
       { "name": "2 star", "count": 10000 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/009688/ffffff?text=TooGoodToGo",
+    "image": "https://i.ibb.co.com/KcKBv6d7/Too-Good-To-Go.png",
     "title": "Too Good To Go",
     "companyName": "Too Good To Go",
     "id": 9,
@@ -152,7 +152,7 @@
     "size": 45.0,
     "reviews": 1600000,
     "ratingAvg": 4.9,
-    "downloads": 10000000,
+    "downloads": "200M",
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 10000 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/9C27B0/ffffff?text=Google+Arts",
+    "image": "https://i.ibb.co.com/2pQZZ4t/Google-Arts-Culture.png",
     "title": "Google Arts & Culture",
     "companyName": "Google LLC",
     "id": 10,
@@ -170,7 +170,7 @@
     "size": 25.0,
     "reviews": 150000,
     "ratingAvg": 4.5,
-    "downloads": 10000000,
+    "downloads": "200M",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 5000 },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/F44336/ffffff?text=Zombies+Run",
+    "image": "https://i.ibb.co.com/vx1T1D67/Zombies-Run.png",
     "title": "Zombies, Run!",
     "companyName": "Six to Start",
     "id": 11,
@@ -188,7 +188,7 @@
     "size": 520.0,
     "reviews": 25000,
     "ratingAvg": 4.8,
-    "downloads": 5000000,
+    "downloads": "50M",
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 500 },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/FFEB3B/ffffff?text=Slowly",
+    "image": "https://i.ibb.co.com/35d28TzQ/Slowly-Connect-to-the-World.png",
     "title": "Slowly - Connect to the World",
     "companyName": "Slowly Communications",
     "id": 12,
@@ -206,7 +206,7 @@
     "size": 65.0,
     "reviews": 180000,
     "ratingAvg": 4.6,
-    "downloads": 5000000,
+    "downloads": "60K",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 3000 },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/E91E63/ffffff?text=TouchRetouch",
+    "image": "https://i.ibb.co.com/RTpNPD9y/Touch-Retouch.png",
     "title": "TouchRetouch",
     "companyName": "ADVA Soft",
     "id": 13,
@@ -224,7 +224,7 @@
     "size": 45.0,
     "reviews": 35000,
     "ratingAvg": 4.8,
-    "downloads": 1000000,
+    "downloads": "60K",
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 500 },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/FF9800/ffffff?text=Yuka",
+    "image": "https://i.ibb.co.com/0Vq8Bqp6/Yuka-Food-Cosmetic-Scan.png",
     "title": "Yuka - Food & Cosmetic Scan",
     "companyName": "Yuka App",
     "id": 14,
@@ -242,7 +242,7 @@
     "size": 68.0,
     "reviews": 850000,
     "ratingAvg": 4.7,
-    "downloads": 10000000,
+    "downloads": "1M",
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 10000 },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/8BC34A/ffffff?text=Merlin",
+    "image": "https://i.ibb.co.com/mVmXDWqH/Merlin-Bird-ID.png",
     "title": "Merlin Bird ID",
     "companyName": "Cornell Lab",
     "id": 15,
@@ -260,7 +260,7 @@
     "size": 450.0,
     "reviews": 200000,
     "ratingAvg": 4.9,
-    "downloads": 5000000,
+    "downloads": "20M",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 500 },
@@ -270,13 +270,13 @@
     ]
   },
   {
-    "image": "https://placehold.co/400x400/F44336/ffffff?text=Alarmy",
+    "image": "https://i.ibb.co.com/273xRvyz/Alarmy-Morning-Alarm.png",
     "title": "Alarmy - Morning Alarm",
     "companyName": "Delight Room Co.",
     "id": 16,
     "description": "Alarmy dubs itself the 'World's Most Annoying Alarm Clock,' and for heavy sleepers, that is a compliment. If you constantly hit snooze and oversleep, Alarmy is the solution. It forces you to wake up by requiring you to complete a mission before the loud alarm will turn off. \n\nMissions include 'Photo Mode,' where you must get out of bed and take a picture of a specific registered object (like your bathroom sink), or 'Squat Mode,' where you must perform 20 squats while holding the phone. There are also math problems, memory games, and barcode scanning missions. By the time you have finished the task, your brain and body are awake, and the temptation to go back to sleep is gone. It also features 'Wake Up Checks' to ensure you didn't just go back to bed after the mission. While it might sound like torture, it is incredibly effective for students, night owls, and anyone who struggles with mornings. It has successfully woken up millions of people who thought they were un-wakeable.",
     "size": 135.0,
-    "reviews": 1400000,
+    "reviews": "14M",
     "ratingAvg": 4.6,
     "downloads": 50000000,
     "ratings": [
