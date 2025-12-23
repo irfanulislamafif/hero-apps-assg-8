@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import useApp from "../Hooks/useApp";
 import LoadingSpinner from "./LoadingSpinner";
 import AppCard from "../Pages/AppCard";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 
 const Apps = () => {
   const { apps, loading } = useApp();
@@ -13,17 +15,23 @@ const Apps = () => {
 
   return (
     <div className="min-h-screen max-w-9xl mx-auto w-full px-4 md:px-8 lg:px-12 py-4 md:py-8 lg:py-12">
-      <h1 className="text-[3rem] text-center">Our All Applications</h1>
+      <h1 className="text-[3rem] text-center font-bold">Our All Applications</h1>
       <h2 className="text-gray-300 text-center">
         Explore All Apps on the Market developed by us. We code for Millions
       </h2>
       <div className="flex justify-between mt-8">
-        <h1>{searchedApps?.length || 0} Apps Found</h1>
-        <label className="input border-gray-500">
+        <h1 className="text-2xl font-semibold">
+          ({searchedApps?.length || 0}) Apps Found
+        </h1>
+
+        <label className="input border-gray-500 flex items-center gap-2">
+          <FontAwesomeIcon icon={faMagnifyingGlass} className="text-gray-400" />
+
           <input
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            type="search"
+            type="text"
+            className="grow"
             placeholder="Search Apps"
           />
         </label>
