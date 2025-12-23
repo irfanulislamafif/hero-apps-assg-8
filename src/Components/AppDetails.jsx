@@ -4,6 +4,8 @@ import useApp from "../Hooks/useApp";
 import DownloadIcon from "../assets/icon-downloads.png";
 import RatingIcon from "../assets/icon-ratings.png";
 import ReviewIcon from "../assets/icon-review.png";
+import { toast } from "react-toastify";
+import { useEffect, useState } from "react";
 
 import {
   BarChart,
@@ -16,6 +18,8 @@ import {
 } from "recharts";
 
 const AppDetails = () => {
+  const [installed, setInstalled] = useState(false);
+
   const { id } = useParams();
   const { apps } = useApp();
   const app = apps.find((p) => String(p.id) === id);
@@ -33,8 +37,35 @@ const AppDetails = () => {
   } = app || {};
 
   const chartData = ratings ? [...ratings].reverse() : [];
+useEffect(() => {
+  if (!app) return;
 
-  if (!app) return <div>Loading...</div>;
+  const existingList =
+    JSON.parse(localStorage.getItem("installation")) || [];
+
+  const isInstalled = existingList.some((p) => p.id === app.id);
+  setInstalled(isInstalled);
+}, [app]);
+
+
+
+
+  const handleAddToInstallation = () => {
+    const existingList = JSON.parse(localStorage.getItem("installation")) || [];
+
+    const isDuplicate = existingList.some((p) => p.id === app.id);
+
+    if (isDuplicate) {
+      toast.info("App already installed");
+      return;
+    }
+
+    const updatedList = [...existingList, app];
+    localStorage.setItem("installation", JSON.stringify(updatedList));
+
+    setInstalled(true);
+    toast.success("App installed successfully ✅");
+  };
 
   return (
     <div className="min-h-screen  max-w-9xl mx-auto w-full px-4 md:px-8 lg:px-12 py-4 md:py-8 lg:py-12">
@@ -45,7 +76,7 @@ const AppDetails = () => {
           </figure>
         </div>
         <div className="w-full">
-          <h2 className="text-[2rem] font-bold ">{title}</h2>
+          <h2 className="text-[2rem] font-bold text-center lg:text-left">{title}</h2>
           <p className="text-2xl text-gray-500">
             Developed by{" "}
             <span
@@ -76,8 +107,16 @@ const AppDetails = () => {
               <h1 className="font-extrabold text-4xl">{reviews}</h1>
             </div>
           </div>
-          <button className="shadow shadow-gray-600 mt-5 border border-[#00D390] px-8 py-3 text-xl text-white font-semibold rounded bg-[#00D390]">
-            Install Now ({size}MB)
+          <button
+            onClick={handleAddToInstallation}
+            disabled={installed}
+            className={`shadow mt-5 px-8 py-3 text-xl font-semibold rounded
+    ${
+      installed
+        ? "bg-gray-400 text-white cursor-not-allowed"
+        : "bg-[#00D390] text-white border border-[#00D390]"
+    }`}>
+            {installed ? "Installed" : `Install Now (${size}MB)`}
           </button>
         </div>
       </div>
@@ -139,9 +178,7 @@ const AppDetails = () => {
       <br />
       <h1 className="text-2xl font-semibold">Description</h1>
       <br />
-   <p className="text-gray-400 text-xl">
-    {description}
-   </p>
+      <p className="text-gray-400 text-xl">{description}</p>
     </div>
   );
 };
