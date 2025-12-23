@@ -4,7 +4,7 @@ import AppCard from "./AppCard";
 import { Link } from "react-router";
 
 const Trending = () => {
-  const { apps, loading, error } = useApp();
+  const { apps } = useApp();
   const featuredProducts = apps.slice(0, 8);
   return (
     <div className="max-w-8xl mx-auto w-full px-4 md:px-8 lg:px-12 x-4 md:py-8 lg:py-12">
@@ -12,7 +12,7 @@ const Trending = () => {
       <p className="text-gray-400 text-center">
         Explore All Trending Apps on the Market developed by us
       </p>
-      <div className="grid grid-cols-4 gap-6 mt-8">
+      <div className="grid grid-cols-1 gap-6 mt-8 md:grid-cols-2 md:gap-6 lg:grid-cols-4 lg:gap-6">
         {featuredProducts.map((app) => (
           <AppCard app={app}></AppCard>
         ))}

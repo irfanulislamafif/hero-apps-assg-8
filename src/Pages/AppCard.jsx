@@ -5,7 +5,9 @@ import React from "react";
 
 const AppCard = ({ app }) => {
   return (
-    <div className="card bg-base-100 w-96 shadow-xl p-4">
+    <Link
+      to="/appDetails"
+      className="card bg-base-100 w-96 shadow-xl p-4 hover:scale-105 transition ease-in-out">
       <figure>
         <img className="h-100" src={app.image} alt={app.title} />
       </figure>
@@ -26,7 +28,7 @@ const AppCard = ({ app }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

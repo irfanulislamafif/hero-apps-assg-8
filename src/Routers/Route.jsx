@@ -7,12 +7,13 @@ import Home from "../Pages/Home";
 import Apps from "../Components/Apps";
 import Installation from "../Components/Installation";
 import Error from "../Components/Error";
+import AppDetails from "../Components/AppDetails";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     Component: MainLayout,
-    errorElement:<Error></Error>,
+    errorElement: <Error></Error>,
     children: [
       {
         index: true,
@@ -25,6 +26,10 @@ export const router = createBrowserRouter([
       {
         path: "installation",
         Component: Installation,
+      },
+      {
+        path: "appDetails",
+        Component: AppDetails,
       },
     ],
   },
