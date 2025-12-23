@@ -7,7 +7,7 @@ import LoadingSpinner from "../Components/LoadingSpinner";
 const Home = () => {
   const { loading } = useApp();
   return (
-    <div className="">
+    <div >
       {loading ? (
         <LoadingSpinner></LoadingSpinner>
       ) : (
