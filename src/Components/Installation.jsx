@@ -3,6 +3,11 @@ import { loadInstallationList } from "../utils/localStorage";
 import IconDownload from "../assets/icon-downloads.png";
 import IconRating from "../assets/icon-ratings.png";
 import { toast } from "react-toastify";
+const parseDownloads = (value) => {
+  if (value.includes("M")) return parseFloat(value) * 1000000;
+  if (value.includes("K")) return parseFloat(value) * 1000;
+  return Number(value);
+};
 
 const Installation = () => {
   const [install, setInstall] = useState(() => loadInstallationList());
@@ -15,15 +20,23 @@ const Installation = () => {
         </p>
       </div>
     );
-  const sortedItem = (() => {
-    if (sortOrder === "size-asc") {
-      return [...install].sort((a, b) => a.size - b.size);
-    } else if (sortOrder === "size-desc") {
-      return [...install].sort((a, b) => b.size - a.size);
-    } else {
-      return install;
-    }
-  })();
+const sortedItem = (() => {
+  if (sortOrder === "size-asc") {
+    return [...install].sort((a, b) => a.size - b.size);
+  } else if (sortOrder === "size-desc") {
+    return [...install].sort((a, b) => b.size - a.size);
+  } else if (sortOrder === "downloads-asc") {
+    return [...install].sort(
+      (a, b) => parseDownloads(a.downloads) - parseDownloads(b.downloads)
+    );
+  } else if (sortOrder === "downloads-desc") {
+    return [...install].sort(
+      (a, b) => parseDownloads(b.downloads) - parseDownloads(a.downloads)
+    );
+  } else {
+    return install;
+  }
+})();
 
   const handleRemove = (id) => {
     const existingList = JSON.parse(localStorage.getItem("installation")) || [];
@@ -49,14 +62,18 @@ const Installation = () => {
           <span className="text-gray-700">{sortedItem.length}</span> Apps Found
         </h1>
         <label className="form-control w-full max-w-xs">
-          <select
-            className="select select-bordered"
-            value={sortOrder}
-            onChange={(e) => setSortOrder(e.target.value)}>
-            <option value="none">Sort by Size</option>
-            <option value="size-asc">Low-&gt;High</option>
-            <option value="size-desc">High-&gt;Low</option>
-          </select>
+  <select
+  className="select select-bordered"
+  value={sortOrder}
+  onChange={(e) => setSortOrder(e.target.value)}
+>
+  <option value="none">Sort by Size / Downloads</option>
+  <option value="size-asc">Size: Low-&gt;High</option>
+  <option value="size-desc">Size: High-&gt;Low</option>
+  <option value="downloads-asc">Downloads: Low-&gt;High</option>
+  <option value="downloads-desc">Downloads: High-&gt;Low</option>
+</select>
+
         </label>
       </div>
       <div className="space-y-3">
