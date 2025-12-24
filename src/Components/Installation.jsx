@@ -85,7 +85,7 @@ const Installation = () => {
             </div>
             <div>
               <button
-                className="text-white bg-[#00D390] px-4 py-2 rounded-md"
+                className="text-white bg-[#00D390] px-4 py-2 rounded-md shadow-md"
                 onClick={() => handleRemove(p.id)}>
                 Uninstall
               </button>
